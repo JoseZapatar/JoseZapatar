@@ -1,39 +1,53 @@
 <h1 align="center">Hi 👋, I'm José Zapata</h1>
 
 <h3 align="center">
-Software Developer • Backend Developer • Systems Engineering Student
+Backend Developer • Full Stack Developer • ASP.NET Core
 </h3>
 
 <p align="center">
-Building scalable software, enterprise databases and modern web applications.
+Building scalable software, enterprise-grade APIs and modern web applications.
+</p>
+
+<p align="center">
+
+🌐 <strong>Portfolio</strong><br>
+<a href="https://jose-zapata-portfolio.vercel.app">
+https://jose-zapata-portfolio.vercel.app
+</a>
+
 </p>
 
 ---
 
-## 👨🏻‍💻 About Me
+> *"I believe great software is not only functional—it is scalable, maintainable, and built to solve real-world problems."*
 
-I'm a Software Developer from **Nicaragua 🇳🇮** passionate about backend development, scalable database design and building complete software solutions.
+---
 
-I enjoy working throughout the entire software development lifecycle—from database architecture and REST APIs to frontend integration and deployment.
+# 👨🏻‍💻 About Me
+
+I'm a **Backend & Full Stack Developer** from **Nicaragua 🇳🇮**, passionate about designing scalable systems, building robust REST APIs, and creating complete software solutions.
+
+My primary focus is **ASP.NET Core, SQL Server, React and Next.js**, but I enjoy working across the entire software development lifecycle—from database architecture and backend development to frontend integration and cloud deployment.
 
 🎓 Systems Engineering Student
 
-💼 Open to Junior Backend / Full Stack opportunities
+💼 Open to **Backend Developer** and **Full Stack Developer** opportunities
 
-🌱 Currently learning **Azure, Docker, Clean Architecture and CI/CD**
+🌱 Currently learning **Azure, Docker, Clean Architecture, CI/CD and Cloud Technologies**
 
 ---
 
 # 💡 What I Build
 
-- 🔹 Enterprise REST APIs with ASP.NET Core
-- 🔹 SQL Server database architecture
-- 🔹 Authentication & Authorization (JWT / RBAC)
-- 🔹 Full Stack Web Applications
-- 🔹 Linux Server Infrastructure
-- 🔹 Business Management Systems
-- 🔹 API Integrations
-- 🔹 Database Optimization
+- 🚀 Enterprise REST APIs with ASP.NET Core
+- 🗄 SQL Server Database Architecture
+- 🔐 Authentication & Authorization (JWT / RBAC)
+- 🌐 Full Stack Web Applications
+- ⚙️ Business Management Systems
+- 🔄 API Integrations
+- 📊 Database Optimization
+- 🐧 Linux Server Infrastructure
+- ☁️ Cloud-ready Applications
 
 ---
 
@@ -42,13 +56,13 @@ I enjoy working throughout the entire software development lifecycle—from data
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,php,nodejs" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,php" />
 </p>
 
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 </p>
 
 ## Database
@@ -57,94 +71,98 @@ I enjoy working throughout the entire software development lifecycle—from data
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-Additionally:
+Additionally
 
 - SQL Server
 - Supabase
 
-## Tools
+## DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode,visualstudio" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## ✈ Travel Booking Platform
+## ✈️ ViajesPro
 
-Complete travel reservation platform built with ASP.NET Core, React and SQL Server.
+Production-ready travel reservation platform built with **ASP.NET Core, React and SQL Server**.
 
-**Highlights**
+### Highlights
 
 - JWT Authentication
-- Role Management
+- Role-Based Authorization
 - Reservation Management
-- Swagger
+- Travel Package Management
+- Swagger Documentation
 - REST API
 - SQL Server
+- Responsive Frontend
 
 ---
 
-## 🐶 Pet Adoption Platform
+## 🐾 Pet Adopt
 
-Modern adoption management platform.
+Complete pet adoption platform focused on usability and scalable backend architecture.
 
-**Highlights**
+### Highlights
 
-- ASP.NET Core
-- React
+- ASP.NET Core REST API
+- React + React Query
 - SQL Server
-- API Key
-- JWT
-- React Query
-
----
-
-## 🎓 University Club Platform
-
-Full Stack university club management platform.
-
-**Highlights**
-
-- Next.js
-- PHP REST API
-- MySQL
-- Club Management
-- Events
-- Announcements
-
----
-
-## 📊 Enterprise CRM
-
-Desktop CRM developed in C#.
-
-**Highlights**
-
-- Customers
-- Products
-- Sales
-- Reports
+- JWT Authentication
+- API Key Security
+- Adoption Workflow
 - Role Management
+
+---
+
+## 🌐 Personal Portfolio
+
+Modern developer portfolio built with **Next.js 15** showcasing projects, technical case studies and advanced SEO.
+
+### Highlights
+
+- Next.js App Router
+- TypeScript
+- Tailwind CSS
+- Motion
+- Dynamic SEO
+- Open Graph Images
+- JSON-LD
+- Sitemap
+- Robots
+- Vercel Deployment
 
 ---
 
 ## 🗄 Enterprise SQL Server Database
 
-Enterprise database designed following best practices.
+Enterprise database designed following best practices for real-world business systems.
 
-**Highlights**
+### Highlights
 
 - Third Normal Form (3NF)
-- Soft Delete
 - Stored Procedures
 - Views
-- Audit Tables
+- Soft Delete
 - RBAC
-- Optimized Fetch
-- Ready for Two-Factor Authentication
+- Audit Tables
+- Optimized Queries
+- Two-Factor Authentication Ready
+
+---
+
+# 📌 Current Focus
+
+- 🚀 Building production-ready ASP.NET Core applications
+- 🗄 Designing scalable SQL Server databases
+- ☁️ Learning Azure & Cloud Architecture
+- 🐳 Improving Docker & CI/CD workflows
+- 🏗 Mastering Clean Architecture
+- 📚 Continuously improving as a Backend Engineer
 
 ---
 
@@ -166,40 +184,46 @@ Enterprise database designed following best practices.
 
 ---
 
-# 🎯 Current Goals
+# 🎯 Career Goals
 
-✔ Master ASP.NET Core
+✔ Become an expert in ASP.NET Core
 
-✔ Learn Azure Cloud
+✔ Master SQL Server performance and optimization
 
-✔ Improve Docker skills
+✔ Build production SaaS applications
 
-✔ Learn CI/CD Pipelines
+✔ Deepen Cloud Architecture knowledge
 
-✔ Build Microservices
+✔ Master Docker & CI/CD
 
-✔ Deepen Clean Architecture
+✔ Continue growing as a Software Engineer
 
 ---
 
 # 📫 Let's Connect
 
-<p>
+🌐 **Portfolio**
 
-💼 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-zapata-482a2b338/
+https://jose-zapata-portfolio.vercel.app
 
-📧 Email: joseangelzapatarosales@gmail.com
+💼 **LinkedIn**
 
-🐙 GitHub: https://github.com/JoseZapatar
+https://www.linkedin.com/in/jos%C3%A9-zapata-482a2b338/
 
-</p>
+📧 **Email**
+
+joseangelzapatarosales@gmail.com
+
+🐙 **GitHub**
+
+https://github.com/JoseZapatar
 
 ---
 
-<p align="center">
+<h3 align="center">
 
-### Thanks for visiting my profile!
+Thanks for visiting my profile! 🚀
 
-Always open to collaboration and exciting software projects 🚀
+I'm always open to collaborating on exciting software projects and continuously learning new technologies.
 
-</p>
+</h3>
